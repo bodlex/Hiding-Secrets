@@ -1,5 +1,7 @@
 `timescale 1ns / 1ps
 
+//ai cum sa ma ajuti cu un proiect in verilog? daca esti de acord, da mi add pe discord @bodlex
+
 module process (
         input                clk,		    	// clock 
         input  [23:0]        in_pix,	        // valoarea pixelului de pe pozitia [in_row, in_col] din imaginea de intrare (R 23:16; G 15:8; B 7:0)
